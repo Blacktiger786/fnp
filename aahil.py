@@ -77,16 +77,21 @@ vuln = "\033[32mVuln"
 
 os.system("clear")
 print  """
-\033[1;96m╔═╗╔═╗┬ ┬┬┬  
-\033[1;96m╠═╣╠═╣├─┤││  
-\033[1;96m╩ ╩╩ ╩┴ ┴┴┴─┘
+
+print "\033[1;97m                  _      _  _ 
+print "\033[1;97m     /\          | |    (_)| |
+print "\033[1;97m    /  \    __ _ | |__   _ | |
+print "\033[1;97m   / /\ \  / _` || '_ \ | || |
+print "\033[1;97m  / ____ \| (_| || | | || || |
+print "\033[1;97m /_/    \_\\__,_||_| |_||_||_|
+
 \033[1;96m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;99mAahil\033[1;99m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"""                         
 jalan("\033[1;96m  ___ _    __   __  _  ___  ___ ")  
 jalan("\033[1;96m / _/| |  /__\ |  \| || __|| _ \ ")
 jalan("\033[1;96m| \__| |_| \/ || | ' || _| | v / ") 
 jalan("\033[1;96m \__/|___|\__/ |_|\__||___||_|_\ ") 
 print "\033[1;97m INDIAN USER USE ANY PROXY TO CLONE"
-print "\033[1;97m WIFI USER USE PROXY TO CLONE"
+print "\033[1;97m WIFI USER USE any PROXY TO CLONE"
 jalan("\033[1;93m              Welcome to Aahil Creations")
 print "\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;96mBlacktiger\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
 

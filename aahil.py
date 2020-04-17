@@ -95,7 +95,7 @@ jalan("\033[1;96m/ /___ | || (_) || | | ||  __/| |")
 jalan("\033[1;96m\____/ |_| \___/ |_| |_| \___||_|")
 print "\033[1;97mINDIAN USER USE ANY PROXY TO CLONE"
 print "\033[1;97mWIFI USER USE PROXY TO CLONE"
-jalan('\033[1;93m              Welcome to BlackMafia")
+jalan("\033[1;93m              Welcome to BlackMafia")
 print "\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;96mBlackMafia\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
 
 CorrectUsername = "rana"
